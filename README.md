@@ -1,5 +1,4 @@
 # multi-led-breadboard-circuit
-# Multi-LED Breadboard Circuit with Push-Button Control
 
 A DC electronics circuit built to demonstrate direct current routing, parallel load configuration, current limiting, and manual push-button control.
 
@@ -20,8 +19,3 @@ A DC electronics circuit built to demonstrate direct current routing, parallel l
 * **Passive Components:** 4 × Current-Limiting Resistors
 * **Input Switch:** 1 × Tactile Push-Button Switch
 * **Interconnects:** Breadboard Jumper Wires
-
-## Key Technical Learnings
-* Demonstrates how parallel circuit branches operate from a shared voltage source.
-* Explores basic circuit protection using current-limiting resistors.
-* Implements momentary switch input logic in hardware.
